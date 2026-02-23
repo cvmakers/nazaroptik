@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="40" fill="#0F172A"></rect>
+  
+  <!-- Sol Cam -->
+  <circle cx="70" cy="110" r="35" fill="white"></circle>
+  <circle cx="70" cy="110" r="25" fill="#38BDF8"></circle>
+  
+  <!-- Sağ Cam -->
+  <circle cx="130" cy="110" r="35" fill="white"></circle>
+  <circle cx="130" cy="110" r="25" fill="#38BDF8"></circle>
+  
+  <!-- Köprü -->
+  <rect x="70" y="100" width="60" height="8" fill="white"></rect>
+</svg>
