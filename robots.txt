@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mersingözlükcü.site/sitemap.xml
+
+Sitemap: https://mersingozlukcu.site/sitemap.xml
